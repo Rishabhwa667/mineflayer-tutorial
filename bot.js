@@ -2,7 +2,7 @@ const mineflayer = require("mineflayer");
 
 var settings = {
     username: "TestMachine",
-    host: "localhost",
+    host: "whossmp.hosthorde.net",
 };
 
 const bot = mineflayer.createBot(settings);
